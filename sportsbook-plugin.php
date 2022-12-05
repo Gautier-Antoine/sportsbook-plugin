@@ -22,7 +22,7 @@ function add_content( $content ) {
             <span aria-hidden="true" class="wp-block-cover__background has-luminous-vivid-amber-background-color has-background-dim-100 has-background-dim"></span>
             <div class="wp-block-cover__inner-container">
                 <!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-                <p class="has-text-align-center has-large-font-size">' . $meta . '</p>
+                <p class="has-text-align-center has-large-font-size">You choose the sportbook: "' . $meta . '"</p>
                 <!-- /wp:paragraph -->
             </div>
         </div>
